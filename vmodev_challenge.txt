@@ -1,0 +1,21 @@
+https://github.com/omise/challenges/tree/challenge-rails
+
+https://dashboard.omise.co/test/transfers
+user: dohaibac@gmail.com
+pass: 1qazXSW@bac
+
+pkey_test_5i9v3ixq2134jclqc9l
+skey_test_5i9v3ixqcmmhne8vugm
+
+Omise Token Simulator: tokn_test_5icxqepz3cxod808hmu
+
+Test Visa Card: 4242424242424242
+card: OpenStruct.new({
+          name: "J DOE",
+          last_digits: "4242",
+          expiration_month: 10,
+          expiration_year: 2020,
+          security_code_check: false,
+        }),
+
+http://www.redmine.org/projects/redmine/repository/entry/trunk/config/locales/vi.yml
